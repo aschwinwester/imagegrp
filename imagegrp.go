@@ -11,7 +11,7 @@ func main() {
 	options := grep.GetOptions()
 
 	if options.URL == "" {
-		fmt.Println("provide URL as argument")
+		fmt.Println("provide URL as argument and prefix with optional flags")
 		return
 	}
 
