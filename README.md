@@ -1,6 +1,9 @@
 # imagegrp
 Grap images from a HTML page or grap multiple images from one image URL using a simple algorithm
 
+[![Build Status](https://travis-ci.org/aschwinwester/imagegrp.svg?branch=master)](https://travis-ci.org/aschwinwester/imagegrp)
+
+
 ### usage
 Usage of imagegrp:
 
